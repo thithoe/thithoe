@@ -1,4 +1,3 @@
-Readme
 Greetings! My name is Tito Adiyanto, and welcome to my GitHub. I am happy to share my portfolio on this GitHub. This portfolio is one of the tasks assigned to me as a project in the Data Science education course program at Purwadhika.
 In short, this project emphasizes creating book data in the library, using Python programming as the basis for building a data management system. In its application, the system will use CRUD functions, also known as (Create, Read, Update, and Delete), as its operating basis.
 I hope this portfolio can provide you with useful information. Thank you for your visit.
