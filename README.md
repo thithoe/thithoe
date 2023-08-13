@@ -22,9 +22,12 @@ The apps will be able to do these things:
 4.	Book List Update
 5.	Delete books
 6.	Calculate the fee
+
+
    
 Features:
 Here it is the view list look like:
+
 ![image](https://github.com/thithoe/thithoe/assets/142106669/bba919a9-6ce4-44b6-a16e-8e11c715b435)
 
  
@@ -34,18 +37,25 @@ In this view, you will see several list of options that you can choose from. The
 •	Exit (Exit App): This option will close the app.
 •	Etc,.
 
+
+
 View Book List:
+
 ![image](https://github.com/thithoe/thithoe/assets/142106669/d928c2c0-0df0-4916-8745-d911df7bc721)
 
  
 Here is the book catalog. It is where you can browse and select which book you would like to borrow.
 The catalog includes the book's title, availability, rental fee, author, and publication year.
 To select a book, you will need to choose the index number next to the book.
+
+
+
 ADD BOOK INTO THE LIST
 Adding a book to the list can be done in a straightforward manner. By selecting index number 2, you will be prompted to provide several pieces of information about the book, such as its title, author, published year, and rent price.
 It is important that you read the instructions carefully and provide accurate information. If you make a mistake, the book may not be added to the list correctly.
 
  ![image](https://github.com/thithoe/thithoe/assets/142106669/a137d278-9107-4b22-8398-ca7dac0c764f)
+
 
 
 DELETE BOOK FROM THE LIST
@@ -54,7 +64,6 @@ DELETE BOOK FROM THE LIST
 
  
 The delete function prompts the user to select the book they would like to delete. Once the user has selected the book, it is automatically deleted and the list is updated.
-
 
 
 
@@ -69,8 +78,6 @@ It is important to read the questions carefully and answer them accurately to en
 Once you have answered the questions and agreed to the cost, the system will automatically borrow the books for you. 
 The borrowing process is designed to be as simple and convenient as possible for customers. However, it is important to be aware of the steps involved and to read the instructions carefully to ensure that the process runs smoothly.
  
-
-
 
 
 
